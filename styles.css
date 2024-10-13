@@ -24,9 +24,9 @@ main {
 .team-grid {
     display: grid;
     grid-template-columns: 50vw 50vw;
-    grid-template-rows: 50vh 50vh;
+    grid-template-rows: 30vh 30vh;
     width: 100vw;
-    height: 75vh;
+    height: 60vh;
 }
 
 .team {
