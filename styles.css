@@ -52,6 +52,10 @@ main {
     background-color: blue;
 }
 
+#group4 {
+    background-color: orange;
+}
+
 .about-demo {
     display: flex;
     align-items: center;
@@ -66,6 +70,6 @@ main {
     border-radius: 5px;
 }
 
-#group4 {
-    background-color: orange;
+.contributions {
+    margin-left: 120px;    
 }
