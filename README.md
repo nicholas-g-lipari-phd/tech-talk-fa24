@@ -14,6 +14,7 @@ These tasks will be similar (if not simplified) to how you will collaborate on y
 5. **Push Your Changes**: Push your commits back to the repository.
 
 ## Changes to Be Made
+### After making each change, commit your updates to the repository so we can view the results on the projector.
 1. **Add Group Members**: Include all student names from your group as an unordered list (`<ul> ... </ul>`) in the appropriate cell of the team grid.
 
 ## Have Fun!
