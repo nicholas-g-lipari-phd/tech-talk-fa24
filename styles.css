@@ -52,6 +52,20 @@ main {
     background-color: blue;
 }
 
+.about-demo {
+    display: flex;
+    align-items: center;
+    gap: 20px; /* Space between the QR code and the text */
+    padding: 20px;
+}
+
+.qrcode {
+    width: 150px; /* Adjust size as needed */
+    height: 150px;
+    border: 2px solid #333;
+    border-radius: 5px;
+}
+
 #group4 {
     background-color: orange;
 }
