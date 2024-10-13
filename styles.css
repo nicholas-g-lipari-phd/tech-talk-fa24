@@ -70,6 +70,13 @@ main {
     border-radius: 5px;
 }
 
-.contributions {
-    margin-left: 120px;    
+ul#contributions {
+    list-style-type: none;
+    padding: 0;
+    margin-left: auto; /* Pushes the list to the right */
+    width: 50%; /* Adjust as needed */
+    background-color: #f9f9f9; /* Optional: to differentiate it visually */
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
 }
