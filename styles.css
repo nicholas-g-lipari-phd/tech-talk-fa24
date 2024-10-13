@@ -60,8 +60,8 @@ main {
 }
 
 .qrcode {
-    width: 150px; /* Adjust size as needed */
-    height: 150px;
+    width: 300px; /* Adjust size as needed */
+    height: 300px;
     border: 2px solid #333;
     border-radius: 5px;
 }
