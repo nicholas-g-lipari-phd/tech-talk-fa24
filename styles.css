@@ -54,8 +54,10 @@ main {
 }
 
 #group4 {
-    background-color: orange;
+    background-color: red;
     font-size: 1em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
 }
 
 .about-demo {
