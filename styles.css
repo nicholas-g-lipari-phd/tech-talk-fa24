@@ -24,9 +24,9 @@ main {
 .team-grid {
     display: grid;
     grid-template-columns: 50vw 50vw;
-    grid-template-rows: 30vh 30vh;
+    grid-template-rows: 40vh 40vh;
     width: 100vw;
-    height: 60vh;
+    height: 80vh;
 }
 
 .team {
@@ -41,7 +41,8 @@ main {
 }
 
 #group1 {
-    background-color: red;
+    background-color: orange;
+    font-family: sans-serif;
 }
 
 #group2 {
@@ -50,11 +51,15 @@ main {
 }
 
 #group3 {
-    background-color: blue;
+    background-color: pink;
+    border: 5px dashed #ff69b4;
 }
 
 #group4 {
-    background-color: orange;
+    background-color: red;
+    font-size: 1em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
 }
 
 .about-demo {
