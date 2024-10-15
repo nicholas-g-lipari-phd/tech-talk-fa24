@@ -41,7 +41,8 @@ main {
 }
 
 #group1 {
-    background-color: red;
+    background-color: orange;
+    font-family: sans-serif;
 }
 
 #group2 {
